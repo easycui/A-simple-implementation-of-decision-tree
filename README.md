@@ -11,9 +11,9 @@ This is a simple implementation of decision tree using Python.
 
 ## Requirement
 
-numpy
-csv
-pydot
+* numpy
+* csv
+* pydot
 
 
 
